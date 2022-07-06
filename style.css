@@ -1,7 +1,3 @@
-.{
-    margin: 0;
-   padding: 0;
-}
 body{
 font-family: 'Poppins', sans-serif;
 }
@@ -10,14 +6,104 @@ font-family: 'Poppins', sans-serif;
    background-size: cover;
    background-repeat: no-repeat;
    height: 100vh} 
+   .top-image{
+                text-align: center;
+                padding-top: 300px;
+                
+   }
+   .ko{
+      font-size: 70px;
+      color: white;
+   }
+   .co{
+      color: white;
+   }
+  
+   .maj{
+    width: 800px ;
+    margin:  0 auto;
+
+   }
+   .head{
+      text-align: center;
+   }
+   .pera{
+      text-align: center;
+   }
+   .pera-2{
+      text-align: center;
+   }
+   .taka{
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+     
+   }
+   .le{
+      color: darkgray;
+      text-align: center;
+   }
+   .do{
+      text-align: center;
+      
+   }
+   .bt{
+      font-size: 20px;
+      color: white;
+      padding: 20px;
+   background: red;
+   border: none;
+   border-radius: 5px;
+
+   }
+   .bax{
+      padding: 40px 30px;
+      background: rgb(243, 240, 240);
+      
+}
+.bax:hover {
+      border: 1px solid red;
+      color: red;
+   }
 .button{
-   text-decoration: none;
+padding: 10px 20px;
+color: white;
+background: red;
+border-radius: 5px;
+border: none;
 }
 .donation-2nd-image{
+   margin-top: 100px;
    display: flex;
    justify-content: space-between;
    margin-bottom: 100px;}
 .half-width{
    width: 50%;
    padding-left: 3%; 
+   
 }
+.pic{
+   width: 500px;
+}
+.mail{
+   width: 1100px;
+   margin: 0 auto;
+}
+.bot{
+   background-color: rgb(241, 201, 153);
+   width: 800px;
+   height: 200px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+
+}
+.box{
+   margin-right: -10px;
+}
+.footer-box {background: #000; padding: 40px 0; }
+.footer {text-align: center; color: red;}
+.footer2 {text-align: center; color: white;}
+
+
